@@ -4,7 +4,7 @@ This Python script helps distribute available time fairly among multiple people 
 Each person gets an equal portion of the time between a specified start and end day and time.
 
 
-Installation
+Linux Installation
 
 ```bash
 git clone https://github.com/eliansweed/my-projects.git
@@ -12,3 +12,8 @@ cd my-projects
 cd python scripts
 python3 python.py
 ```
+Windows Installation
+```bash
+just run it with pycharm or visual studio
+```
+Thanks :)
