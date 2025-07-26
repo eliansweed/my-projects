@@ -11,7 +11,7 @@ It demonstrates key networking concepts such as IP addressing, routing, switchin
 - 🌐 Routing (e.g., static routes, OSPF, etc.)
 - 📂 Optional: File sharing, ping tests, DNS simulation
 
-![Alt text](network-project/photo2.png)
+![Alt text](photo2.png)
 
 
 ## 🚀 How to Open the Project
