@@ -83,15 +83,6 @@ Security was a top focus of this project. Here’s what I implemented:
 
 ---
 
-## 🖼️ Future Add-ons (Optional)
-
-- Add sandbox payment gateway for test checkout
-- Create a client demo account
-- Add server monitoring panel (Grafana + Prometheus)
-- Connect WHMCS APIs to virtual provisioning backend (Docker / VPS mockup)
-
----
-
 ## 🤝 Contact
 
 Want to discuss the setup or see more? Feel free to open an issue or fork this repo and connect.
