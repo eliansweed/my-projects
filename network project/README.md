@@ -11,6 +11,9 @@ It demonstrates key networking concepts such as IP addressing, routing, switchin
 - 🌐 Routing (e.g., static routes, OSPF, etc.)
 - 📂 Optional: File sharing, ping tests, DNS simulation
 
+![Alt text](network-project/photo2.png)
+
+
 ## 🚀 How to Open the Project
 
 1. Install **Cisco Packet Tracer** (if not already):
